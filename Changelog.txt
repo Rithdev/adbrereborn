@@ -1,0 +1,17 @@
+15 Seconds ADB Installer V2.0
+Datastream 2018, All rights reserved.
+-Rith (dumb)
+
+Version 2.0:
+* Merged updater with main script.
+* Improved updates UI.
+* Improved update speed.
+* Improved main menu UI.
+* Added the option to skip installing ADB if you want to install drivers only. 
+* Added toast notifications to update UI.
+* Fixed bug that caused installing adb to hang.
+* Added an "About" page.
+* Fixed an issue where the XDA Forum button was redirecting to the wrong forum.
+
+Version 2.1:
+* The updater ain't working chief, i'm just repackaging this with the newer plataform tools .zip
